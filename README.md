@@ -1,6 +1,6 @@
 ### Hi there, This is Rajdeep 👋
 
-<a href="https://www.linkedin.com/in/rajdeepghosh01/">
+<a href="https://www.linkedin.com/in/rajdeepghosh01/" target="_blank">
     <img alt="Rajdeep Ghosh | Linkedin" width="20px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/linkedin.svg" />
 </a>
 <br>
