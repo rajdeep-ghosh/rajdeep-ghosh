@@ -1,10 +1,12 @@
 ### Hi there, This is Rajdeep 👋
 
+<a href="https://www.linkedin.com/in/rajdeepghosh01/">
+    <img alt="Rajdeep Ghosh | Linkedin" width="20px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/linkedin.svg" />
+</a>
+<br>
+
 <!--
 **rajdeep-ghosh/rajdeep-ghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
 -->
 <!--
 - 🔭 I’m currently working on ...    -->
