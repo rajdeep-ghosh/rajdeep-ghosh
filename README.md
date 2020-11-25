@@ -21,13 +21,15 @@
 
 <hr>
 
+<!-- 
 ### Languages and Tools:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep-ghosh&langs_count=8&exclude_repo=machine-learning)
 
 <hr>
+-->
 
 ### GitHub Stats:
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=raj5036&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![Rajdeep's Github Stats](https://github-readme-stats.vercel.app/api?username=rajdeep-ghosh&hide=stars,issues)
+![Rajdeep's Github Stats](https://github-readme-stats.vercel.app/api?username=rajdeep-ghosh&hide=stars&count_private=true&show_icons=true)
