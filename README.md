@@ -19,7 +19,7 @@
 <!-- - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...   -->
 
-<hr>
+<!-- <hr> -->
 
 <!-- 
 ### Languages and Tools:
