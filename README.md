@@ -17,7 +17,7 @@
 
 <!--
 - 🔭 I’m currently working on ...    -->
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning MERN stack
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 📫 How to reach me: rajdeepghosh810@gmail.com
 - 😄 Pronouns: Passionate | Driven | Ambitious | Nerdy
