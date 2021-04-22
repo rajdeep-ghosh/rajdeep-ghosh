@@ -1,6 +1,6 @@
 <img align="right" width="370px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/pcgif.gif" />
 
-## Hi there 👋, I'm Rajdeep Ghosh
+## Hi 👋, I'm Rajdeep Ghosh
 
 <a href="https://www.linkedin.com/in/rajdeepghosh01/" target="_blank">
     <img align="left" alt="Rajdeep Ghosh | Linkedin" width="20px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/linkedin.svg" />
