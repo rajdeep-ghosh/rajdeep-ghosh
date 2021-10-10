@@ -42,4 +42,4 @@
 ### GitHub Stats 📈
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=raj5036&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![Rajdeep's Github Stats](https://github-readme-stats.vercel.app/api?username=rajdeep-ghosh&hide=stars&count_private=true&show_icons=true)
+![Rajdeep's Github Stats](https://github-readme-stats.vercel.app/api?username=rajdeep-ghosh&hide=stars&count_private=true&show_icons=true&theme=dark)
