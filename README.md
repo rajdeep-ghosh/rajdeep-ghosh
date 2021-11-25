@@ -9,6 +9,7 @@
     <img align="left" alt="Rajdeep Ghosh | Instagram" width="20px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/instagram.png" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=rajdeep-ghosh&color=009DAE)
 <br>
 
 ### About Me 🚀
