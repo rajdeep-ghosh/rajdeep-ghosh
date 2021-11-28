@@ -3,10 +3,10 @@
 ## Hi 👋, I'm Rajdeep Ghosh
 
 <a href="https://www.linkedin.com/in/rajdeepghosh01/" target="_blank">
-    <img align="left" alt="Rajdeep Ghosh | Linkedin" width="20px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/linkedin.svg" />
+    <img align="left" alt="lnkdin" width="20px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/rajdeepghosh_/" target="_blank">
-    <img align="left" alt="Rajdeep Ghosh | Instagram" width="20px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/instagram.png" />
+    <img align="left" alt="insta" width="20px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/instagram.png" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=rajdeep-ghosh&color=009DAE)
