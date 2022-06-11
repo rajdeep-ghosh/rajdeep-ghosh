@@ -1,4 +1,4 @@
-<img align="right" width="370px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/pcgif.gif" />
+<img align="right" width="270px" height="270px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/pcgif.gif" />
 
 ## Hi 👋, I'm Rajdeep Ghosh
 
