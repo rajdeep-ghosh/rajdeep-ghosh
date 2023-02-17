@@ -1,12 +1,12 @@
-<img align="right" width="350px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/pcgif.gif" />
+<img align="right" width="350px" src="https://rawcdn.githack.com/rajdeep-ghosh/rajdeep-ghosh/936deaec901ab2e39a5d7f675c4ed79f4072d730/assets/pcgif.gif" />
 
 ## Hi 👋, I'm Rajdeep Ghosh
 
 <a href="https://www.linkedin.com/in/rajdeepghosh01/" target="_blank">
-    <img align="left" alt="lnkdin" width="20px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/linkedin.svg" />
+    <img align="left" alt="lnkdin" width="20px" src="https://rawcdn.githack.com/rajdeep-ghosh/rajdeep-ghosh/936deaec901ab2e39a5d7f675c4ed79f4072d730/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/rajdeepghosh_/" target="_blank">
-    <img align="left" alt="insta" width="20px" src="https://raw.githubusercontent.com/rajdeep-ghosh/rajdeep-ghosh/master/assets/instagram.png" />
+    <img align="left" alt="insta" width="20px" src="https://rawcdn.githack.com/rajdeep-ghosh/rajdeep-ghosh/936deaec901ab2e39a5d7f675c4ed79f4072d730/assets/instagram.png" />
 </a>
 
 ![](https://komarev.com/ghpvc/?username=rajdeep-ghosh&color=009DAE)
