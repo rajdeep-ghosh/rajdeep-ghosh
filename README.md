@@ -43,7 +43,6 @@
 ![Rajdeep's top lang](https://github-readme-stats-rg.vercel.app/api/top-langs/?username=rajdeep-ghosh&exclude_repo=machine-learning&layout=compact&langs_count=10)
 -->
 
-hello. i'm a dumb coder
+hello 👋
 
-\
 ![](https://komarev.com/ghpvc/?username=rajdeep-ghosh&color=009DAE)
