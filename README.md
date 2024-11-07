@@ -43,6 +43,11 @@
 ![Rajdeep's top lang](https://github-readme-stats-rg.vercel.app/api/top-langs/?username=rajdeep-ghosh&exclude_repo=machine-learning&layout=compact&langs_count=10)
 -->
 
-hello 👋
+<samp>
+enjoys programming, not a tryhard
+<br />
+<a href="https://rajdeep.xyz">www</a>  •  <a href="https://x.com/rajdeepghosh__">x</a>  •  <a href="https://linkedin.com/in/rajdeepghosh01">li</a>
+<br /><br />
 
 ![](https://komarev.com/ghpvc/?username=rajdeep-ghosh&color=009DAE)
+</samp>
